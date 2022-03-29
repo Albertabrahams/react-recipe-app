@@ -27,6 +27,9 @@
   padding: 10px 20px;
   color: white;
 }
+.search-button:hover{
+  cursor: pointer;
+}
 
 .recipes {
   display: flex;
